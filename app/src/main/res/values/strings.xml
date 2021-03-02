@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PermissionsTraining</string>
+    <string name="accept_position">Vous devez autoriser l\'accès au GPS pour qu\'on puisse récupérer votre position</string>
+    <string name="access_btn_text">Autoriser l\'accès</string>
+    <string name="permission_never_requested">Bienvenue sur notre application, pour avoir votre position cliquer sur le bouton \'Autoriser l\'accès\'</string>
+    <string name="dialog_title">Autorisation</string>
+    <string name="dialog_message">Nous avons besoin de votre accord pour afficher votre position GPS</string>
+    <string name="ok">Demander la permission</string>
+    <string name="cancel">Ne rien faire</string>
+    <string name="error">Une erreur est apparue</string>
+    <string name="permission_refused">Vous devez autoriser l\'accès au GPS pour qu\'on puisse récupérer votre position</string>
+    <string name="permission_accepted">Permission acceptée</string>
+</resources>
